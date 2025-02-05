@@ -21,3 +21,11 @@ figure {
     padding: 20px; 
     border-radius: 8px; 
 }
+.contato__subtitulo {
+  display: inline;
+}
+
+.contato__info {
+  margin: 16px 0 24px;
+  padding-left: 32px;
+}
