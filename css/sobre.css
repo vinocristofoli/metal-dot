@@ -8,11 +8,10 @@ body {
  }
 
  .titulo {
-   padding: 10px;
-
    font-size: 32px;
-
-   background-color: #E1EDF2;
+    color: #3D3D3D; 
+    background-color: #E1EDF2; 
+    padding: 10px; 
  }
 
  .subtitulo {
