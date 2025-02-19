@@ -9,7 +9,9 @@ h2{
 }
 button{
    color: #fff;
-    font-family: 'Montserrat';
+   font-family: 'Montserrat';
+   background-color: #2D5377;
+
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
